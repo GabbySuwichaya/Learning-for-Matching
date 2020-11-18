@@ -5,7 +5,7 @@
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
 | [CVPR2020] | SuperGlue: Learning Feature Matching with Graph Neural Networks |[CVF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sarlin_SuperGlue_Learning_Feature_Matching_With_Graph_Neural_Networks_CVPR_2020_paper.pdf)|[Official Github](https://github.com/magicleap/SuperGluePretrainedNetwork) [Trainingscript with License](https://github.com/HeatherJiaZG/SuperGlue-pytorch)|
-| [CVPR18] | Learning to Find Good Correspondences |  [CVF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yi_Learning_to_Find_CVPR_2018_paper.pdf)  |  [Github](https://github.com/vcg-uvic/learned-correspondence-release) |
+| [CVPR2018] | Learning to Find Good Correspondences |  [CVF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yi_Learning_to_Find_CVPR_2018_paper.pdf)  |  [Github](https://github.com/vcg-uvic/learned-correspondence-release) |
 
 ### Graph Matching
 
@@ -19,4 +19,4 @@
 ### Foundamental Metrix estimation
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
-| [ICCV19] | Learning Two-View Correspondences and Geometry Using Order-Aware Network (OANet) | [arXiv](https://arxiv.org/abs/1908.04964) |[Github](https://github.com/zjhthu/OANet)|
+| [ICCV2019] | Learning Two-View Correspondences and Geometry Using Order-Aware Network (OANet) | [arXiv](https://arxiv.org/abs/1908.04964) |[Github](https://github.com/zjhthu/OANet)|
