@@ -4,7 +4,7 @@
 
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
-| [CVPR2020] | SuperGlue: Learning Feature Matching with Graph Neural Networks |[CVF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sarlin_SuperGlue_Learning_Feature_Matching_With_Graph_Neural_Networks_CVPR_2020_paper.pdf)|[Official Github](https://github.com/magicleap/SuperGluePretrainedNetwork) [Trainingscript with License](https://github.com/HeatherJiaZG/SuperGlue-pytorch)|
+| [CVPR2020] | SuperGlue: Learning Feature Matching with Graph Neural Networks |[CVF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Sarlin_SuperGlue_Learning_Feature_Matching_With_Graph_Neural_Networks_CVPR_2020_paper.pdf)|[Official Github](https://github.com/magicleap/SuperGluePretrainedNetwork) [Train script with License](https://github.com/HeatherJiaZG/SuperGlue-pytorch)|
 | [CVPR2018] | Learning to Find Good Correspondences |  [CVF](https://openaccess.thecvf.com/content_cvpr_2018/papers/Yi_Learning_to_Find_CVPR_2018_paper.pdf)  |  [Github](https://github.com/vcg-uvic/learned-correspondence-release) |
 
 ### Graph Matching
