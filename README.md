@@ -20,3 +20,9 @@
 | Year | Paper | link | Code |
 | --- | --- | --- | --- |
 | [ICCV2019] | Learning Two-View Correspondences and Geometry Using Order-Aware Network (OANet) | [arXiv](https://arxiv.org/pdf/1908.04964.pdf) |[Github](https://github.com/zjhthu/OANet)|
+
+#### Deep learning for irregular structured and geometric input
+| Year | Paper | link | Code |
+| --- | --- | --- | --- |
+| [CVPR2018] | SplineCNN: Fast Geometric Deep Learning with Continuous B-Spline Kernels  | [arXiv](https://arxiv.org/pdf/1711.08920.pdf) |[Github](https://github.com/rusty1s/pytorch_geometric)|
+
