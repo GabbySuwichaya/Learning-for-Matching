@@ -14,7 +14,7 @@
 | [ECCV2020] | Deep Graph Matching via Blackbox Differentiation of Combinatorial Solvers | [arXiv](https://arxiv.org/pdf/2003.11657.pdf) |[Github](https://github.com/martius-lab/blackbox-deep-graph-matching)|
 | [ICLR2020] | Deep Graph Matching Consensus |[openreview](https://openreview.net/pdf?id=HyeJf1HKvS)|[Github](https://github.com/rusty1s/deep-graph-matching-consensus)  |
 | [ICLR2020] | Learning deep graph matching with channel-independent embedding and Hungarian attention  |[openreview](https://openreview.net/forum?id=rJgBd2NYPH)|  |
-| [ICCV2019] | Learning Combinatorial Embedding Networks for Deep Graph Matching | [CVF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Learning_Combinatorial_Embedding_Networks_for_Deep_Graph_Matching_ICCV_2019_paper.pdf)  |  [Github](https://github.com/Thinklab-SJTU/PCA-GM) |
+| [ICCV2019] | Learning Combinatorial Embedding Networks for Deep Graph Matching (PCA-GM) | [CVF](https://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Learning_Combinatorial_Embedding_Networks_for_Deep_Graph_Matching_ICCV_2019_paper.pdf)  |  [Github](https://github.com/Thinklab-SJTU/PCA-GM) |
 
 ### Foundamental Metrix estimation
 | Year | Paper | link | Code |
